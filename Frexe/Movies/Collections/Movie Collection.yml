@@ -112,6 +112,10 @@ collections:
   "Dollars":
     template: {name: Set, list: 8205842, poster: https://theposterdb.com/api/assets/211754 }
 
+############################################### Downton Abbey ###############################################
+  "Downton Abbey":
+    template: {name: Set, list: 925006, poster: https://theposterdb.com/api/assets/241845 }
+
 ################################################# Don't Breathe #######################################
   "Don't Breathe":
     template: {name: Set, collection: 748919, poster: https://theposterdb.com/api/assets/175434 }
@@ -127,6 +131,10 @@ collections:
 ######################################### Dumb and Dumber #############################################
   "Dumb and Dumber":
     template: {name: Set, collection: 96665, poster: https://theposterdb.com/api/assets/165413 }
+
+################################################ Enola Holmes #############################################
+  "Enola Holmes":
+    template: {name: Set, collection: 829314, poster: https://theposterdb.com/api/assets/283512 }
 
 ############################################ Ernest ###################################################
   "Ernest":
@@ -232,6 +240,10 @@ collections:
   "John Wick":
     template: {name: Set, collection: 404609, poster: https://theposterdb.com/api/assets/164798 }
 
+################################################ Jumanji ############################################
+  "Jumanji":
+    template: {name: Set, collection: 495527, poster: https://theposterdb.com/api/assets/163392 }
+
 ################################################ Jump Street ##########################################
   "Jump Street":
     template: {name: Set, collection: 212562, poster: https://theposterdb.com/api/assets/164800 }
@@ -243,6 +255,10 @@ collections:
 ################################################ Kingsman #############################################
   "Kingsman":
     template: {name: Set, collection: 391860, poster: https://theposterdb.com/api/assets/164805 }
+
+################################################ Knives Out #############################################
+  "Knives Out":
+    template: {name: Set, collection: 722971, poster: https://theposterdb.com/api/assets/291317 }
 
 ############################################# Legally Blonde ##########################################
   "Legally Blonde":
@@ -390,9 +406,17 @@ collections:
   "Chronicles of Riddick":
     template: {name: Set, collection: 2794, poster: https://theposterdb.com/api/assets/163647 }
 
+######################################## Sword Art Online the Movie -Progressive- ##########################################
+  "Sword Art Online the Movie -Progressive-":
+    template: {name: Set, collection: 893713, poster: https://theposterdb.com/api/assets/241940 }
+
 ####################################### The Dukes of Hazzard (Reboot) ###################################
   "The Dukes of Hazzard (Reboot)":
     template: {name: Set, collection: 332357, poster: https://theposterdb.com/api/assets/164776 }
+
+####################################### The Girl - Millennium ###################################
+  "The Girl - Millennium":
+    template: {name: Set, collection: 575987, poster: https://theposterdb.com/api/assets/288791 }
 
 ################################################## Thing ################################################
   "Thing":
@@ -401,6 +425,10 @@ collections:
 ################################################## Top Gun ##############################################
   "Top Gun":
     template: {name: Set, collection: 531330, poster: https://theposterdb.com/api/assets/252568 }
+
+################################################## The Hunger Games ##############################################
+  "The Hunger Games":
+    template: {name: Set, collection: 131635, poster: https://theposterdb.com/api/assets/163851 }  
 
 ############################################# Trainspotting ##############################################
   "Trainspotting":
@@ -421,6 +449,10 @@ collections:
 ############################################## Vice Academy #############################################
   "Vice Academy":
     template: {name: Set, collection: 314638, poster: https://theposterdb.com/api/assets/164846 }
+
+############################################## X #############################################
+  "X":
+    template: {name: Set, collection: 950289, poster: https://theposterdb.com/api/assets/281427 }
 
 ################################################ Zoolander ##############################################
   "Zoolander":
